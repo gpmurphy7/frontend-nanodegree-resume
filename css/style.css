@@ -154,6 +154,7 @@ a {
 
 ul {
   list-style-type: none;
+
 }
 
 .biopic {
@@ -165,6 +166,7 @@ ul {
 
 img {
   padding: 10px;
+  max-width: 40%;
 }
 
 span {
